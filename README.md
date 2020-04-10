@@ -26,5 +26,10 @@ The agent explores the environment according to his actions. There is a reward i
 More specifically, when he finds a banana receives a reward of +1 if it is yellow or -1 if it is blue.
 
 
+Installation
+
+First of all 
+
+
 
 

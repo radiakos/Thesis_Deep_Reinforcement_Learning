@@ -1,4 +1,4 @@
-# Deep_reinforcement_learning_atari_gym
+# Deep_Reinforcement_Learning_atari_gym
 
 This repository consists my thesis's project in which I implement several deep q-learning algorithms in MsPacman game environment.
 

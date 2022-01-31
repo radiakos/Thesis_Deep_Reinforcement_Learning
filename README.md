@@ -37,4 +37,6 @@ Most common reward is given when the agent eats a pellet.
 ```
 	$ jupyter notebook
 ```
+ 2. Use train notebook in order to implement one of the available DRL algorithms and create the respective agents
  
+ 3. Use evaluate notebook in order to evaluate the created agents
